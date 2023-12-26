@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asce-12138
 - 👀 I’m interested in code
-- 🌱 I’m currently learning mechine learning
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
